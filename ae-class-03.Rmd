@@ -30,7 +30,7 @@ Configure git by running the following code in the **terminal**. Fill in your Gi
 
 ```{r, eval = FALSE}
 git config --global user.name 'username'
-git config --global user.email 'password'
+git config --global user.email 'useremail'
 ```
 
 Next load the `tidyverse` package. Recall, a package is just a bundle of 
